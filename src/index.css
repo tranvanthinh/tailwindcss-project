@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+    .check-content {
+        @apply mb-12 flex gap-8 ml-18 mr-7 items-center
+    }
+} */
